@@ -7,4 +7,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Compile Include="C:\Users\grant\Desktop\repos\IterationsExercise3\Iterations3almost.cs" Link="Iterations3almost.cs" />
+  </ItemGroup>
+
 </Project>
